@@ -66,7 +66,7 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | nice.codes      | available | $11.99    | $86.99        | 86             | 44     | 4      | name.com          |
 | black.codes     | resell    | —         | —             | 100            | 98     | 5      | Porkbun LLC       |
-| free.codes      | premium   | $3,750    | $3,750        | 88             | 59     | 4      | name.com          |
+| free.codes      | premium   | $3,750    | $3,750        | 88             | 57     | 4      | name.com          |
 | verify.codes    | available | $11.99    | —             | 80             | 41     | 6      | name.com          |
 | box.codes       | resell    | —         | —             | 68             | 78     | 3      | NameCheap, Inc.   |
 | game.codes      | premium   | $250      | $250          | 120            | 49     | 4      | name.com          |
