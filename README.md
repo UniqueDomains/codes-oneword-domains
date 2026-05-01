@@ -1,10 +1,10 @@
-# Available .CODES One-Word Domains (10,762)
+# Available .CODES One-Word Domains (11,389)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C762%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C389%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .codes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,762 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,389 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,762 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,389 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/codes`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Books.codes              | available | $92.98    | —             | 52             | 49     | 5      | namecheap        |
+| payments.codes           | available | $11.99    | —             | 58             | 33     | 8      | name.com         |
 | daniel.codes             | resell    | —         | —             | 76             | 50     | 6      | GoDaddy.com, LLC |
 | jobs.codes               | premium   | $500      | —             | 79             | 42     | 4      | name.com         |
-| payments.codes           | available | $11.99    | —             | 58             | 33     | 8      | name.com         |
+| inspiration.codes        | available | $11.99    | —             | 88             | 30     | 11     | name.com         |
 | agents.codes             | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
 | SanDiego.codes           | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo         |
-| inspiration.codes        | available | $11.99    | —             | 88             | 30     | 11     | name.com         |
-| pages.codes              | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
 | spaces.codes             | available | $11.99    | —             | 54             | 30     | 6      | name.com         |
-| has.codes                | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
+| pages.codes              | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
 | popup.codes              | available | $11.99    | —             | 84             | 29     | 6      | name.com         |
-| products.codes           | premium   | $123.75   | —             | 60             | 23     | 8      | name.com         |
+| has.codes                | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
 | quotes.codes             | available | $11.99    | —             | 58             | 29     | 6      | name.com         |
 | hills.codes              | premium   | $250      | —             | 65             | 20     | 5      | name.com         |
 | commonground.codes       | available | $11.99    | —             | 74             | 28     | 13     | name.com         |
 | prices.codes             | premium   | $250      | —             | 51             | 15     | 6      | name.com         |
 | trades.codes             | available | $11.99    | —             | 71             | 26     | 6      | name.com         |
-| LongBeach.codes          | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap        |
-| schools.codes            | available | $11.99    | —             | 72             | 24     | 7      | name.com         |
 | DistrictofColumbia.codes | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap        |
+| schools.codes            | available | $11.99    | —             | 72             | 24     | 7      | name.com         |
+| shops.codes              | available | $11.99    | —             | 64             | 24     | 5      | name.com         |
+| boats.codes              | available | $11.99    | —             | 52             | 24     | 5      | name.com         |
+| rekt.codes               | available | $11.99    | —             | 40             | 24     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,762 live domains                              |
+| 1,000-row public sample | 11,389 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
