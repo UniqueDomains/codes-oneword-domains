@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .codes one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,404 domains · **Median ask:** $20.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/codes`  
 **Best for:** founders, investors, studios
 
@@ -72,9 +72,9 @@ print(df.head())
 | SanDiego.codes           | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo         |
 | spaces.codes             | available | $11.99    | —             | 54             | 30     | 6      | name.com         |
 | pages.codes              | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
-| popup.codes              | available | $11.99    | —             | 84             | 29     | 6      | name.com         |
-| has.codes                | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
 | quotes.codes             | available | $11.99    | —             | 58             | 29     | 6      | name.com         |
+| has.codes                | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
+| popup.codes              | available | $11.99    | —             | 84             | 28     | 6      | name.com         |
 | hills.codes              | premium   | $250      | —             | 65             | 20     | 5      | name.com         |
 | commonground.codes       | available | $11.99    | —             | 74             | 28     | 13     | name.com         |
 | prices.codes             | premium   | $250      | —             | 51             | 15     | 6      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
