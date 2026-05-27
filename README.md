@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .codes one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,404 domains · **Median ask:** $20.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/codes`  
 **Best for:** founders, investors, studios
 
@@ -67,16 +67,16 @@ print(df.head())
 | payments.codes           | available | $11.99    | —             | 58             | 33     | 8      | name.com         |
 | daniel.codes             | resell    | —         | —             | 76             | 50     | 6      | GoDaddy.com, LLC |
 | jobs.codes               | premium   | $500      | —             | 79             | 42     | 4      | name.com         |
-| inspiration.codes        | available | $11.99    | —             | 88             | 30     | 11     | name.com         |
+| spaces.codes             | available | $11.99    | —             | 54             | 30     | 6      | name.com         |
 | agents.codes             | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
 | SanDiego.codes           | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo         |
-| spaces.codes             | available | $11.99    | —             | 54             | 30     | 6      | name.com         |
-| pages.codes              | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
 | quotes.codes             | available | $11.99    | —             | 58             | 29     | 6      | name.com         |
-| has.codes                | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
+| pages.codes              | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
 | popup.codes              | available | $11.99    | —             | 84             | 28     | 6      | name.com         |
-| hills.codes              | premium   | $250      | —             | 65             | 20     | 5      | name.com         |
+| has.codes                | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
 | commonground.codes       | available | $11.99    | —             | 74             | 28     | 13     | name.com         |
+| hills.codes              | premium   | $250      | —             | 65             | 20     | 5      | name.com         |
+| inspiration.codes        | available | $11.99    | —             | 88             | 27     | 11     | name.com         |
 | prices.codes             | premium   | $250      | —             | 51             | 15     | 6      | name.com         |
 | trades.codes             | available | $11.99    | —             | 71             | 26     | 6      | name.com         |
 | DistrictofColumbia.codes | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
