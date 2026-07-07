@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .codes one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,404 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,404 domains · **Median ask:** $20.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,404 domains · **Median ask:** $17.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/codes`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/codes`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CODES one-word domain
 
 ### Files
 
-- `codes.csv` — public CSV extract (1,000 rows)
-- `codes.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `codes.csv`, public CSV extract (1,000 rows)
+- `codes.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| payments.codes           | available | $11.99    | —             | 58             | 33     | 8      | name.com         |
-| daniel.codes             | resell    | —         | —             | 76             | 50     | 6      | GoDaddy.com, LLC |
-| jobs.codes               | premium   | $500      | —             | 79             | 42     | 4      | name.com         |
-| spaces.codes             | available | $11.99    | —             | 54             | 30     | 6      | name.com         |
-| agents.codes             | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
-| SanDiego.codes           | premium   | $78.54    | $78.54        | 74             | 29     | 9      | namesilo         |
-| quotes.codes             | available | $11.99    | —             | 58             | 29     | 6      | name.com         |
-| pages.codes              | premium   | $82.50    | —             | 52             | 28     | 5      | name.com         |
-| popup.codes              | available | $11.99    | —             | 84             | 28     | 6      | name.com         |
-| has.codes                | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
-| commonground.codes       | available | $11.99    | —             | 74             | 28     | 13     | name.com         |
-| hills.codes              | premium   | $250      | —             | 65             | 20     | 5      | name.com         |
-| inspiration.codes        | available | $11.99    | —             | 88             | 27     | 11     | name.com         |
-| prices.codes             | premium   | $250      | —             | 51             | 15     | 6      | name.com         |
-| trades.codes             | available | $11.99    | —             | 71             | 26     | 6      | name.com         |
-| DistrictofColumbia.codes | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap        |
-| schools.codes            | available | $11.99    | —             | 72             | 24     | 7      | name.com         |
-| wife.codes               | premium   | —         | —             | 90             | 18     | 4      | —                |
-| shops.codes              | available | $11.99    | —             | 64             | 24     | 5      | name.com         |
-| boats.codes              | available | $11.99    | —             | 52             | 24     | 5      | name.com         |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| ago.codes  | available | $11.99    | $86.99        | medium         | low    | 3      | name.com            |
+| buy.codes  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC    |
+| big.codes  | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com            |
+| ala.codes  | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| log.codes  | resell    | —         | —             | high           | low    | 3      | UM DOMAINS PTE. LTD |
+| fit.codes  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo            |
+| bce.codes  | available | $11.99    | —             | medium         | low    | 3      | name.com            |
+| lol.codes  | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.     |
+| lp.codes   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
+| cry.codes  | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| run.codes  | resell    | —         | —             | high           | low    | 3      | UM DOMAINS PTE. LTD |
+| men.codes  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| DJI.codes  | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| love.codes | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
+| nor.codes  | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
+| hum.codes  | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| rank.codes | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11   |
+| pin.codes  | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
+| ivy.codes  | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| save.codes | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on .codes domains. The set is broad: short dictionary words, verbs, emotional terms, technical-sounding words, and longer phrases all appear here. Sample names such as sorry.codes, silly.codes, exist.codes, minute.codes, and invalid.codes show that the range runs from brandable and memorable to highly contextual or potentially problematic. The median ask is 20.18, so price is generally accessible, but low ask alone does not make a name strong. When comparing these domains, weigh word clarity, length, pronunciation, commercial fit, and trademark exposure carefully. Names tied to known brands or public figures need extra caution.
+This list holds 11,404 one-word and compound-word domain names on the .codes extension, a TLD closely tied to software, developer tools, and technical products. Names like becalled.codes, operacake.codes, and watches.codes show the range: short dictionary words, familiar phrases, and product-style compounds. With a median ask near $17, .codes remains one of the more affordable extensions for locking in a short, ownable name before it's taken. Whether you're comparing entry price across many names or shortlisting one for a launch, the same basics apply: check the ask against likely renewal cost, confirm the name is easy to spell and say, and rule out obvious trademark overlap.
 
-- Median ask is 20.18 across 11,396 .codes domains
-- Mix of short words, abstract terms, and longer phrases
-- Brandability varies sharply across this selection
-- Trademark checks matter on names like Audi.codes
+- 11,404 one-word .codes names, median ask ~$17
+- Compound-word style: becalled, makewhole, getready, watches
+- Short, ownable names suited for tech and coding brands
+- Compare pricing and renewal before you commit to a .codes name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
