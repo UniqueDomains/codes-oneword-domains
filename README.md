@@ -1,10 +1,10 @@
-# Available .CODES One-Word Domains (28,150)
+# Available .CODES One-Word Domains (29,703)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C150%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C703%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .codes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,150 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,703 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,150 domains · **Median ask:** $8.71 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 29,703 domains · **Median ask:** $8.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/codes`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| half.codes  | available | $11.99    | —             | high           | low    | 4      | name.com            |
-| ago.codes   | available | $11.99    | $86.99        | medium         | low    | 3      | name.com            |
-| log.codes   | resell    | —         | —             | high           | low    | 3      | UM DOMAINS PTE. LTD |
-| big.codes   | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com            |
-| ala.codes   | available | $11.99    | —             | high           | low    | 3      | name.com            |
-| run.codes   | resell    | —         | —             | medium         | low    | 3      | UM DOMAINS PTE. LTD |
-| fit.codes   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo            |
-| aug.codes   | available | $3.98     | $92.98        | low            | low    | 3      | namecheap           |
-| love.codes  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
-| lp.codes    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
-| bce.codes   | available | $11.99    | —             | medium         | low    | 3      | name.com            |
-| rank.codes  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11   |
-| men.codes   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| cry.codes   | available | $11.99    | —             | high           | low    | 3      | name.com            |
-| save.codes  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
-| nor.codes   | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
-| dji.codes   | available | $11.99    | —             | high           | low    | 3      | name.com            |
-| first.codes | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.     |
-| pin.codes   | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
-| hum.codes   | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| ago.codes    | available | $8.99     | $71.99        | low            | low    | 3      | namesilo            |
+| log.codes    | resell    | —         | —             | high           | low    | 3      | UM DOMAINS PTE. LTD |
+| big.codes    | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap           |
+| ala.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| run.codes    | resell    | —         | —             | medium         | low    | 3      | UM DOMAINS PTE. LTD |
+| fit.codes    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo            |
+| aug.codes    | available | $3.98     | $92.98        | low            | low    | 3      | namecheap           |
+| rank.codes   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11   |
+| lp.codes     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
+| bce.codes    | available | $11.99    | —             | medium         | low    | 3      | name.com            |
+| save.codes   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
+| men.codes    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| cry.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| first.codes  | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.     |
+| nor.codes    | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
+| dji.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| luxury.codes | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 23   |
+| pin.codes    | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
+| hum.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
+| search.codes | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 29   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,150 live domains                        |
+| 1,000-row public sample | 29,703 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
