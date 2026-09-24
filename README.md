@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .codes one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,703 domains · **Median ask:** $8.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/codes`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
 | ago.codes    | available | $8.99     | $71.99        | low            | low    | 3      | namesilo            |
-| log.codes    | resell    | —         | —             | high           | low    | 3      | UM DOMAINS PTE. LTD |
+| buy.codes    | resell    | —         | —             | medium         | low    | 3      | Edomains LLC        |
 | big.codes    | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap           |
 | ala.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
-| run.codes    | resell    | —         | —             | medium         | low    | 3      | UM DOMAINS PTE. LTD |
+| log.codes    | resell    | —         | —             | high           | low    | 3      | UM DOMAINS PTE. LTD |
 | fit.codes    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo            |
 | aug.codes    | available | $3.98     | $92.98        | low            | low    | 3      | namecheap           |
-| rank.codes   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11   |
+| run.codes    | resell    | —         | —             | medium         | low    | 3      | UM DOMAINS PTE. LTD |
 | lp.codes     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
 | bce.codes    | available | $11.99    | —             | medium         | low    | 3      | name.com            |
-| save.codes   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
+| rank.codes   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 11   |
 | men.codes    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
 | cry.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
-| first.codes  | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.     |
+| save.codes   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
 | nor.codes    | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
 | dji.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
-| luxury.codes | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 23   |
+| first.codes  | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.     |
 | pin.codes    | premium   | $82.50    | —             | high           | low    | 3      | name.com            |
 | hum.codes    | available | $11.99    | —             | high           | low    | 3      | name.com            |
-| search.codes | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 29   |
+| luxury.codes | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 23   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
