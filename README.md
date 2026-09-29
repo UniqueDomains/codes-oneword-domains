@@ -1,10 +1,10 @@
-# Available .CODES One-Word Domains (21,478)
+# Available .CODES One-Word Domains (23,332)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C478%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C332%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .codes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,478 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,332 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,478 domains · **Median ask:** $10.06 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,332 domains · **Median ask:** $10.35 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/codes`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| historical.codes | available | $8.99     | $71.99        | high           | low    | 10     | namesilo                                                  |
-| adz.codes        | available | $8.99     | $71.99        | medium         | low    | 3      | namesilo                                                  |
-| bio.codes        | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| act.codes        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| aga.codes        | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
-| message.codes    | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.                                           |
-| did.codes        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| azt.codes        | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
-| coworker.codes   | resell    | —         | —             | high           | low    | 9      | NameCheap, Inc.                                           |
-| nor.codes        | premium   | $82.50    | —             | high           | low    | 3      | name.com                                                  |
-| gao.codes        | available | $8.99     | $71.99        | medium         | low    | 3      | namesilo                                                  |
-| pre.codes        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| ldl.codes        | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
-| earl.codes       | premium   | $99.50    | —             | high           | low    | 4      | unstoppable                                               |
-| lsd.codes        | available | $55.20    | $55.20        | high           | low    | 3      | cloudflare                                                |
-| gratis.codes     | premium   | $250      | $250          | high           | low    | 6      | name.com                                                  |
-| moi.codes        | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
-| replay.codes     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
-| nfl.codes        | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
-| atlanta.codes    | premium   | $85.80    | $85.80        | high           | low    | 7      | namecheap                                                 |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| adz.codes      | available | $8.99     | $71.99        | medium         | low    | 3      | namesilo                                                  |
+| bio.codes      | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| act.codes      | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship                                                 |
+| aga.codes      | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
+| message.codes  | resell    | —         | —             | high           | low    | 7      | NameCheap, Inc.                                           |
+| did.codes      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| azt.codes      | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
+| scripts.codes  | resell    | —         | —             | high           | low    | 7      | —                                                         |
+| nor.codes      | premium   | $82.50    | —             | high           | low    | 3      | name.com                                                  |
+| ldl.codes      | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
+| coworker.codes | resell    | —         | —             | high           | low    | 9      | NameCheap, Inc.                                           |
+| pre.codes      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| lsd.codes      | available | $55.20    | $55.20        | high           | low    | 3      | cloudflare                                                |
+| earl.codes     | premium   | $99.50    | —             | high           | low    | 4      | unstoppable                                               |
+| moi.codes      | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
+| gratis.codes   | premium   | $250      | $250          | high           | low    | 6      | name.com                                                  |
+| nfl.codes      | available | $8.99     | $71.99        | high           | low    | 3      | namesilo                                                  |
+| replay.codes   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
+| pod.codes      | available | $3.98     | $92.98        | high           | medium | 3      | namecheap                                                 |
+| atlanta.codes  | premium   | $85.80    | $85.80        | high           | low    | 7      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,478 live domains                        |
+| 1,000-row public sample | 23,332 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CODES One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
